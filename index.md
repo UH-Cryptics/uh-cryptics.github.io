@@ -28,7 +28,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Login and Register
 
-Click on the "Login" button in the middle of the screen, then select type in your username and password on the following page to login. You must have been previously registered with the system to use this option:
+Click on the "Login" button in the middle of the screen, then type in your username and password on the following page to login. You must have been previously registered with the system to use this option:
 
 ![](doc/sign-in.png)
 
