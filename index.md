@@ -92,8 +92,6 @@ UH Cryptics is meant to illustrate the use of Meteor for developing an initial p
 * Use of https so that passwords are sent in encrypted format.
 * Removal of the insecure package, and the addition of Meteor Methods to replace client-side DB updates.
 
-(Note that these changes do not need to be implemented for ICS 314, although they are relatively straightforward to accomplish.)
-
 ## Continuous Integration
 To Do
 
