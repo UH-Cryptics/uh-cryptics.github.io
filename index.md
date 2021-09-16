@@ -120,8 +120,11 @@ To do
 
 ## Team
 
-[Luke]
-[Deshay]
+[Chase](https://github.com/Chase-Lee-ui)/
+[Cheolhoon](https://github.com/cheolhoon)/
+[Daniel](https://github.com/dflorenco1)/
+[Deshay](https://github.com/deshay-clemons)/
+[Luke](https://github.com/lukemcd9)/
 
 
 UH Cryptics is designed, implemented, and maintained by [UH Cryptics Organization](https://github.com/uh-cryptics/).
