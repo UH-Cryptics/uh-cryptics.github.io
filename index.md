@@ -42,9 +42,11 @@ After logging in, you are taken to the home page, which presents the welcome mes
 
 ![](doc/inventoryPage.png)
 
-### Admin
+### Searching
 
-After admin login, can manage and maintain the website.
+You are able to search for items by the name of the medications and supplies.
+
+![](doc/searching.png)
 
 #### Admin page
 To do
