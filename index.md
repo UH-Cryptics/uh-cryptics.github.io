@@ -8,9 +8,7 @@
 
 ## Overview
 
-_**The problem**_: Inventory management of products used for patients is tedious and time consuming.
-
-_**The solution**_: Create a website that can handle inventory management of products with ease.
+Hello and welcome to Zeus! Our project is oriented around creating an online application to help manage the inventory of medical supplies for clinics in Hawai'i. We want to create a simple and easy to use interface so that anyone is capable of using our application. 
 
 ## Deployment
 
@@ -18,11 +16,11 @@ A live deployment of Zeus is available at [https://github.com/uh-cryptics/zeus](
 
 ## User Guide
 
-This section provides a walkthrough of the Zeus user interface and its capabilities.
+This project is still in the early stages of development. Below are the page mockups of the components we wish to implement in our finished product.
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site.
+The landing page is presented to users when they visit the top-level URL to the site. You can either choose to login to an existing account or register a new one. 
 
 ![](doc/landingPage.png)
 
