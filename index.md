@@ -120,13 +120,13 @@ To do
 
 ## Team
 
-[Chase](https://github.com/Chase-Lee-ui)/
-[Cheolhoon](https://github.com/cheolhoon)/
-[Daniel](https://github.com/dflorenco1)/
-[Deshay](https://github.com/deshay-clemons)/
-[Jessica](https://github.com/jktang342)/
-[Luke](https://github.com/lukemcd9)/
-[Rafael](https://github.com/rabitz808)/
-[Sheena](https://github.com/sheenatorres)/
+[Chase](https://github.com/Chase-Lee-ui) /
+[Cheolhoon](https://github.com/cheolhoon) /
+[Daniel](https://github.com/dflorenco1) /
+[Deshay](https://github.com/deshay-clemons) /
+[Jessica](https://github.com/jktang342) /
+[Luke](https://github.com/lukemcd9) /
+[Rafael](https://github.com/rabitz808) /
+[Sheena](https://github.com/sheenatorres) /
 
 UH Cryptics is designed, implemented, and maintained by [UH Cryptics Organization](https://github.com/uh-cryptics/).
