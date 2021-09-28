@@ -116,7 +116,7 @@ The following sections document the development history of UH Cryptics.
 ### Milestone 1: Mockup development
 The goal of Milestone 1 was to create mockup pages for the inventory management page in the system.
 
-Milestone 1 was managed using ZEUS Github Project Board M1.
+Milestone 1 was managed using ZEUS Github Project Board M1:
 
 ![](doc/M1.png)
 
