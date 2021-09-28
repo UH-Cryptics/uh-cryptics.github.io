@@ -114,7 +114,11 @@ The development process for UH Cryptics conformed to [Issue Driven Project Manag
 The following sections document the development history of UH Cryptics.
 
 ### Milestone 1: Mockup development
-To do
+The goal of Milestone 1 was to create mockup pages for the inventory management page in the system.
+
+Milestone 1 was managed using ZEUS Github Project Board M1.
+
+![](doc/M1.png)
 
 ### Milestone 2: Data model development
 To do
