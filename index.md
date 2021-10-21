@@ -40,16 +40,47 @@ Alternatively, you can select "Register" to go to the following page and registe
 
 After logging in, you are taken to the home page, which presents the welcome message and guidelines what you can see and do.
 
-![](doc/inventoryPage.png)
+![](doc/userPage_med.png)
+
+![](doc/userPage_supply.png)
+
+### Inventory Information
+
+Users can view the inventory information of each medication or supply.
+
+![](doc/inventoryInfo.png)
 
 ### Searching
 
-You are able to search for items by the name of the medications and supplies.
+You are able to search for items by the name of the medications and supplies. You can also filter search by low inventory, name, location, quantity, and LOT number.
 
-![](doc/searching.png)
+![](doc/search.png)
 
-#### Admin page
-To do
+### Dispense page
+
+Users can dispense medication or supplies.
+
+![](doc/dispenseMedication.png)
+
+![](doc/dispenseSupply.png)
+
+### Admin page
+
+![](doc/admin.png)
+
+### Edit/Delete Medication
+
+Admin users can edit or delete the inventory information for medication and supplies.
+
+![](doc/inventoryInfo_admin.png)
+
+### Add Medication
+
+![](doc/addMed.png)
+
+### Add Supply
+
+![](doc/addSupply.png)
 
 ## Developer Guide
 
@@ -121,7 +152,11 @@ Milestone 1 was managed using ZEUS Github Project Board M1:
 ![](doc/M1.png)
 
 ### Milestone 2: Data model development
-To do
+The goal of Milestone 2 was to implement functionality for each mockup page created from Milestone 1.
+
+Milestone 2 was managed using ZEUS Github Project Board M2:
+
+![](doc/M2.png)
 
 ### Milestone 3: Fixes
 To do
