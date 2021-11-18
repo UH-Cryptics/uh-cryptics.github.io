@@ -159,7 +159,21 @@ Milestone 2 was managed using ZEUS Github Project Board M2:
 ![](doc/M2.png)
 
 ### Milestone 3: Fixes
-To do
+The goal of Milestone 3 was to continue implementing functionality to our website and UI.
+
+Milestone 3 was managed using ZEUS Github Project Board M3:
+
+![](doc/M3.png)
+
+### Milestone 4:
+The goal of Milestone 4 was creating history pages for Admin users and UI.
+
+Milestone 4 was managed using ZEUS Github Project Board M4:
+
+![](doc/M4.png)
+
+### Milestone 5:
+In progress...
 
 ## Team
 
