@@ -11,11 +11,11 @@
 
 ## Overview
 
-Hello and welcome to Zeus! Our project is oriented around creating an online application to help manage the inventory of medical supplies for clinics in Hawai'i. We want to create a simple and easy to use interface so that anyone is capable of using our application. 
+Hello and welcome to ZEUS! Our project is oriented around creating an online application to help manage the inventory of medical supplies for clinics in Hawai'i. We want to create a simple and easy to use interface so that anyone is capable of using our application.
 
 ## Deployment
 
-A live deployment of Zeus is available at [https://github.com/uh-cryptics/zeus](https://github.com/uh-cryptics/zeus). (change this link later when deployment is live)
+A live deployment of Zeus is available at [https://zeus.uhcryptics.xyz/](https://zeus.uhcryptics.xyz/).
 
 ## User Guide
 
@@ -35,7 +35,7 @@ Click on the "Login" button in the middle of the screen, then type in your usern
 
 Alternatively, you can select "Register" to go to the following page and register as a new user:
 
-![](doc/registerPage.png)
+![](doc/sign-up.png)
 
 ### User Home page
 
@@ -61,9 +61,7 @@ You are able to search for items by the name of the medications and supplies. Yo
 
 Users can dispense medication or supplies.
 
-![](doc/dispenseMedication.png)
-
-![](doc/dispenseSupply.png)
+![](doc/dispenseMedication.png) ![](doc/dispenseSupply.png)
 
 ### Admin page
 
@@ -75,13 +73,22 @@ Admin users can edit or delete the inventory information for medication and supp
 
 ![](doc/inventoryInfo_admin.png)
 
-### Add Medication
+### Add Medication & Supply
 
-![](doc/addMed.png)
+This is where you can add a medication or supply to the inventory.
 
-### Add Supply
+![](doc/addMed.png) ![](doc/addSupply.png)
 
-![](doc/addSupply.png)
+### Dispense History Page
+
+History log of medication and or supplies that were dispensed to patients.
+
+### Manage Users
+
+Admin users can view and manage current users in the database, such as changing their roles if needed.
+
+![](doc/manageUsers.png)
+
 
 ## Developer Guide
 
@@ -173,7 +180,12 @@ Milestone 4 was managed using ZEUS Github Project Board M4:
 
 ![](doc/M4.png)
 
-### Milestone 5:
+### Milestone 5: Deployment
+The goal of Milestone 5 was deploying our website to Digital Ocean with its own domain name. Also, we were able to implement a QR code API.
+
+![](doc/M5.png)
+
+### Milestone 6:
 In progress...
 
 ## Team
