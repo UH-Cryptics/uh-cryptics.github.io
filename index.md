@@ -15,7 +15,7 @@ Hello and welcome to ZEUS! Our project is oriented around creating an online app
 
 ## Deployment
 
-A live deployment of Zeus is available at [https://zeus.uhcryptics.xyz/](https://zeus.uhcryptics.xyz/).
+A live deployment of ZEUS is available at [https://zeus.uhcryptics.xyz/](https://zeus.uhcryptics.xyz/).
 
 ## User Guide
 
