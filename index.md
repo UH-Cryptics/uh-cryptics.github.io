@@ -183,6 +183,8 @@ Milestone 4 was managed using ZEUS Github Project Board M4:
 ### Milestone 5: Deployment
 The goal of Milestone 5 was deploying our website to Digital Ocean with its own domain name. Also, we were able to implement a QR code API.
 
+Milestone 5 was managed using ZEUS Github Project Board M5:
+
 ![](doc/M5.png)
 
 ### Milestone 6:
